@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    
+    
+ <head>
+    
+    
+    <link rel="stylesheet" type="text/css" href="process.css">
+<h1>Process<hr></h1>
+
+</head>     
+     
+     
+<center><div class="section group">
+	<div class="col span_1_of_4">
+	<a href="index.html">Home</a>
+	</div>
+	<div class="col span_1_of_4">
+<a href="tools.html">Tools</a>
+	</div>
+	<div class="col span_1_of_4">
+<a href="materials.html">Materials</a>
+	</div>
+	<div class="col span_1_of_4">
+	Gallery
+	</div>
+</div>
+     
+
+    
+    
+<br> <br>
+    
+    
+    <div class="section group">
+	<div class="col span_1_of_2">
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 100px;
+    width: 180px;
+    background-color: ;
+}
+
+li a {
+    display: block;
+    color: black;
+    
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+</style>
+        
+        
+
+
+ <body>
+
+<div id="header">
+<h1>STEP THREE</h1>
+</div>
+
+<div id="nav">
+<a href="process.html">STEP ONE</a><br><br>
+  <a href="steptwo.html">STEP TWO</a><br><br>
+ <a href="stepthree.html">STEP THREE</a><br><br>
+  <a href="stepfour.html">STEP FOUR</a><br><br>
+  <a href="#home">STEP FIVE</a><br><br>
+  <a href="#news">STEP SIX</a><br><br>
+  <a href="#contact">STEP SEVEN </a><br><br>
+<a href="#about">STEP EIGHT </a><br><br>
+  <a href="#home">STEP NINE </a><br><br>
+ <a href="#news">STEP TEN </a><br><br>
+  <a href="#contact">STEP ELEVEN </a><br><br>
+  <a href="#about">STEP TWELVE</a><br><br>
+  <a href="#about">STEP THIRTEEN</a><br><br>
+</div>
+
+<div id="section">
+
+
+<p><b>
+Once the chemicals have been mixed and stored in the gallon jugs, you need to bring them to the correct temperature.</b></p> <br><hr><br>
+
+<p><b>Fill a large sink (like your kitchen sink) with water that is 68 degrees Fahrenheit (20 degrees Celsius). Use the thermometer to get the correct temperature. </b> That is, 1 part developer to 3 parts water. This gives you a "stock" solution. Fill one gallon jug with this stock solution. The stock solution will be diluted more before using it on the film. Diluting this stock solution will provide you with a "working" solution.</p>
+<br><br>
+
+<p><b>This is very important.</b> Now put your gallon jugs of chemicals in the sink, floating in the water. These chemicals must be 20 degrees Celsius when you use them. You are going to put them in 68 degrees water because the temperature of the water is going to drop a bit while bringing the chemicals to the correct temperature. Try to be as accurate as possible when it comes to the chemicals' temperature. More than 1 degree above or 1 degree below 20 degrees can have a big effect on the film! Remember, the final chemical temperature you want is 20 degrees, and you are soaking the chemicals in 68 degree water because the gallon jugs will sit in the water for at least 30 minutes, and the water temperature will drop a couple degrees during that time.</p><br><br>
+    
+    <img src="stepthree.jpg"  style="width:900px;height:675px;"><br><hr><br>
+
+</div>
+
+
+
+</body>
+        
+        
+   
+        
+
+    
+    
+
+</html>
